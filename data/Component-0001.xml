@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ARTC_FeaturesCollection>
+  <OUTER_DIAMETER>
+    <Name>OUTER_DIAMETER(1of1){1of1}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>153.6 0 0</ProfilePoint1>
+    <ProfilePoint2>153.6 0 -246.1</ProfilePoint2>
+    <Tag>821436</Tag>
+  </OUTER_DIAMETER>
+  <INNER_DIAMETER>
+    <Name>INNER_DIAMETER(1of1){1of1}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>138.2 0 0</ProfilePoint1>
+    <ProfilePoint2>138.2 0 -246.1</ProfilePoint2>
+    <Tag>819262</Tag>
+  </INNER_DIAMETER>
+  <FACE_MILL>
+    <Name>FACE_MILL(1of1){1of2}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>153.6 0 0</ProfilePoint1>
+    <ProfilePoint2>138.2 0 0</ProfilePoint2>
+    <Tag>821437</Tag>
+  </FACE_MILL>
+  <FACE_MILL>
+    <Name>FACE_MILL(1of1){2of2}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>153.6 0 -246.1</ProfilePoint1>
+    <ProfilePoint2>138.2 0 -246.1</ProfilePoint2>
+    <Tag>821438</Tag>
+  </FACE_MILL>
+  <HOLES_ALONG_SURFACE>
+    <Name>HOLES_ALONG_SURFACE(1of1){1of6}</Name>
+    <Origin>0 138.0445 0</Origin>
+    <Vector>0 1 0</Vector>
+    <Diameter>3</Diameter>
+     <Length>15.5555</Length>
+    <Tag>821447</Tag>
+  </HOLES_ALONG_SURFACE>
+  <HOLES_ALONG_SURFACE>
+    <Name>HOLES_ALONG_SURFACE(1of1){2of6}</Name>
+    <Origin>119.55 69.0222 -32</Origin>
+    <Vector>0.866025404 0.5 0</Vector>
+     <Length>15.5555</Length>
+    <Diameter>3</Diameter>
+    <Tag>821446</Tag>
+  </HOLES_ALONG_SURFACE>
+  <HOLES_ALONG_SURFACE>
+    <Name>HOLES_ALONG_SURFACE(1of1){3of6}</Name>
+    <Origin>119.55 -69.0222 -32</Origin>
+    <Vector>0.866025404 -0.5 0</Vector>
+    <Diameter>3</Diameter>
+     <Length>15.5555</Length>
+    <Tag>821444</Tag>
+  </HOLES_ALONG_SURFACE>
+  <HOLES_ALONG_SURFACE>
+    <Name>HOLES_ALONG_SURFACE(1of1){4of6}</Name>
+    <Origin>0 -138.0445 -32</Origin>
+    <Vector>0 -1 0</Vector>
+    <Diameter>3</Diameter>
+     <Length>15.5555</Length>
+    <Tag>821445</Tag>
+  </HOLES_ALONG_SURFACE>
+  <HOLES_ALONG_SURFACE>
+    <Name>HOLES_ALONG_SURFACE(1of1){5of6}</Name>
+    <Origin>-119.55 -69.0222 -32</Origin>
+    <Vector>-0.866025404 -0.5 0</Vector>
+    <Diameter>3</Diameter>
+    <Length>15.5555</Length>
+    <Tag>821448</Tag>
+  </HOLES_ALONG_SURFACE>
+  <HOLES_ALONG_SURFACE>
+    <Name>HOLES_ALONG_SURFACE(1of1){6of6}</Name>
+    <Origin>-119.55 69.0222 -32</Origin>
+    <Vector>-0.866025404 0.5 0</Vector>
+    <Diameter>3</Diameter>
+     <Length>15.5555</Length>
+    <Tag>820592</Tag>
+  </HOLES_ALONG_SURFACE>
+</ARTC_FeaturesCollection>

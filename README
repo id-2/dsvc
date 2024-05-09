@@ -1,0 +1,24 @@
+DSVC packege: Ver 1.0.0
+Following SemVe
+
++++++++++++++++++++++++++++++++++++
+virtual Environment:
+dsvc
+
+conda create --name dsvc python=3.12
+conda activate dsvc
+
+
+REQUREMENTS:
+
+pandas
+matplotlib
+
+#############
+NOTE: 
+1) Modify the following coption in .vscode/launc.json to make ctrl+F5 run the main.py program in vs code:
+Source: https://stackoverflow.com/questions/59395036/how-to-make-vscode-always-run-main-py
+Modify the following coption in .vscode/launc.json to make ctrl+F5 run the main.py program in vs code:
+"program": "main.py",
+
+

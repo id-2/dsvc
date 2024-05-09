@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ARTC_FeaturesCollection>
+  <OUTER_DIAMETER>
+    <Name>OUTER_DIAMETER(1of1){1of1}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>158.750 0.000 6.140</ProfilePoint1>
+    <ProfilePoint2>158.750 0.000 -270.660</ProfilePoint2>
+    <Tag>821653</Tag>
+  </OUTER_DIAMETER>
+  <INNER_DIAMETER>
+    <Name>INNER_DIAMETER(1of1){1of1}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>101.600 0.000 6.140</ProfilePoint1>
+    <ProfilePoint2>101.600 0.000 -270.660</ProfilePoint2>
+    <Tag>447034</Tag>
+  </INNER_DIAMETER>
+  <FACE_MILL>
+    <Name>FACE_MILL(1of1){1of2}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>158.750 0.000 6.140</ProfilePoint1>
+    <ProfilePoint2>158.750 0.000 -270.660</ProfilePoint2>
+    <Tag>821654</Tag>
+  </FACE_MILL>
+  <FACE_MILL>
+    <Name>FACE_MILL(1of1){2of2}</Name>
+    <Origin>0 0 0</Origin>
+    <Vector>0 0 1</Vector>
+    <ProfilePoint1>101.600 0 6.140</ProfilePoint1>
+    <ProfilePoint2>101.600 0 -270.660</ProfilePoint2>
+    <Tag>821652</Tag>
+  </FACE_MILL>
+</ARTC_FeaturesCollection>
